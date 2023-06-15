@@ -10,9 +10,6 @@
   }
 }
 
-/*================= Google Fonts =================*/
-/* @import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=League+Spartan:wght@400;500;600;700&display=swap"); */
-
 /*================= Variables =================*/
 :root {
   --header-height: 4rem;
@@ -32,8 +29,8 @@
 
   /*========== Font and typography ==========*/
   /* .5rem = 8px | 1rem = 16px ... */
-  --body-font: monospace, sans-serif;
-  --second-font: "League Spartan", sans-serif;
+  --body-font: 'Lato', sans-serif;
+  --second-font: 'Spartan', sans-serif;
   --big-font-size: 3.5rem;
   --h1-font-size: 2.75rem;
   --h2-font-size: 2rem;
